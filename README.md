@@ -85,6 +85,7 @@ temp2:        +29.8°C
 
 uid=1000(odity) gid=1000(odity) groups=1000(odity),958(libvirt-qemu),959(libvirt),992(kvm),998(wheel)
 ```
+# PROFIT
 
 Сравниваем исходный файл с крякнутым.
 
